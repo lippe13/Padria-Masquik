@@ -12,21 +12,21 @@ Código e modelagem do banco de dados estão localizados nos outros branchs.
 ## Usuários
 
 CLIENTE
-Clientes podem ser cadastrados a qualquer momento, em acesso pelo menu --> login/cadastro
-Clientes podem fazer 1 ou N compras. Sua dashboard, mostra os pedidos que já fez, métodos para adicionar saldo a carteira(será usado para fazer compras) e a opção "FAZER COMPRA";
-Fazendo um pedido, o cliente pode comprar 1 ou N produtos, cada um na quantidade que desejar. Além disso adicionamos métodos para que haja 2 tipos de pedidos: o delivery e o loja física(simulando um "pegar na loja" do Ifood). Caso ele peça delivery, um funcionário deve liberar o pedido para entrega, e depois, o cliente deve confirmar a entrega/pagamento. Em caso de loja física, o cliente apenas deve confirmar a aquisição dos produtos.
+- Clientes podem ser cadastrados a qualquer momento, em acesso pelo menu --> login/cadastro
+- Clientes podem fazer 1 ou N compras. Sua dashboard, mostra os pedidos que já fez, métodos para adicionar saldo a carteira(será usado para fazer compras) e a opção "FAZER COMPRA";
+- Fazendo um pedido, o cliente pode comprar 1 ou N produtos, cada um na quantidade que desejar. Além disso adicionamos métodos para que haja 2 tipos de pedidos: o delivery e o loja física(simulando um "pegar na loja" do Ifood). Caso ele peça delivery, um funcionário deve liberar o pedido para entrega, e depois, o cliente deve confirmar a entrega/pagamento. Em caso de loja física, o cliente apenas deve confirmar a aquisição dos produtos.
 
 FUNCIONÁRIO
-Funcionários podem ser cadastrados/removidos do sistema por gerentes.
-Sua tela é uma aba de consulta, onde ele insere o CPF do cliente, e vê todos os pedidos feitos por esse usuário. Caso o pedido seja delivery, e ainda não esteja entregue, o funcionário tem a opção de liberar o pedido para entrega, o que só aguardará a confirmação do cliente para que fique "Entregue".
+- Funcionários podem ser cadastrados/removidos do sistema por gerentes.
+- Sua tela é uma aba de consulta, onde ele insere o CPF do cliente, e vê todos os pedidos feitos por esse usuário. Caso o pedido seja delivery, e ainda não esteja entregue, o funcionário tem a opção de liberar o pedido para entrega, o que só aguardará a confirmação do cliente para que fique "Entregue".
 
 GERENTE
-Gerenes podem ser cadastrados/removidos do sistema por ADMs.
-Sua tela tem opções para cadastrar/remover Funcionários, além de uma opção para ver TODOS os pedidos registrados no sistema.
+- Gerenes podem ser cadastrados/removidos do sistema por ADMs.
+- Sua tela tem opções para cadastrar/remover Funcionários, além de uma opção para ver TODOS os pedidos registrados no sistema.
 
 ADM
-Cargo mais alto no sistema, ele possui um usuário pré inserido. Não pode ser removido do sistema.
-Sua tela apresenta funções para: cadastrar e remover Gerentes // cadastrar novos ADMs // adicionar um novo produto ao sistema // ver todos os produtos cadastrados
+- Cargo mais alto no sistema, ele possui um usuário pré inserido. Não pode ser removido do sistema.
+- Sua tela apresenta funções para: cadastrar e remover Gerentes // cadastrar novos ADMs // adicionar um novo produto ao sistema // ver todos os produtos cadastrados
 
 ## Dados Pré-Inseridos
 
