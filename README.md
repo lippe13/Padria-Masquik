@@ -31,29 +31,29 @@ ADM
 ## Dados Pré-Inseridos
 
 ADMIN
---> Nome: Felipe Mendes
---> CPF: 15161444657
---> Celular: 31971740540
---> Senha: robin
+- Nome: Felipe Mendes
+- CPF: 15161444657
+- Celular: 31971740540
+- Senha: robin
 
 GERENTE
---> Nome: Arthur Magno
---> CPF: 99257099
---> Celular: 03199386-5185
---> Senha: senha
+- Nome: Arthur Magno
+- CPF: 99257099
+- Celular: 03199386-5185
+- Senha: senha
 
 FUNCIONARIO
---> Nome: Matheus Silva
---> CPF: 995000410
---> Celular: 03198920-5392
---> Senha: senha
+- Nome: Matheus Silva
+- CPF: 995000410
+- Celular: 03198920-5392
+- Senha: senha
 
 CLIENTE
---> Nome: Marcio Fantini
---> Email: mf@gmail.com
---> CPF: 1020304050
---> Celular: 992584571
---> Senha: mf
+- Nome: Marcio Fantini
+- Email: mf@gmail.com
+- CPF: 1020304050
+- Celular: 992584571
+- Senha: mf
 
 ## LINK para acesso
 
