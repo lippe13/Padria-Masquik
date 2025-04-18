@@ -61,6 +61,6 @@ CLIENTE
 
 ## Autores
 
-Felipe Davila Mendes, https://github.com/lippe13
-Arthur Magno Castanha Só, 
-Matheus Silva Rosa, https://github.com/matheuss-rosa
+- Felipe Davila Mendes, https://github.com/lippe13
+- Arthur Magno Castanha Só, 
+- Matheus Silva Rosa, https://github.com/matheuss-rosa
