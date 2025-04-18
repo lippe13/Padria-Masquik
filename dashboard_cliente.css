@@ -1,0 +1,85 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+.saldo {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.saldo h2 {
+    font-size: 1.5rem;
+    color: #4CAF50;
+}
+
+.pedidos {
+    margin: 20px 0;
+}
+
+.pedidos h3 {
+    font-size: 1.2rem;
+}
+
+.pedidos ul {
+    list-style: none;
+    padding: 0;
+}
+
+.pedidos li {
+    padding: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.pedidos li strong {
+    color: #333;
+}
+
+.actions {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.actions .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin: 10px;
+}
+
+.actions .button:hover {
+    background-color: #0056b3;
+}
+
