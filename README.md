@@ -2,7 +2,7 @@
 
 Linguagens utilizadas: PHP, MySql, HTML/CSS
 
-## Descrição do Sistemas
+## Descrição do Sistema
 
 Sistema de padaria com uma capacidade de uso para 4 tipos/cargos de usuários diferente, cada um "acima do outro", respectivamente: cliente, funcionário, gerente e ADM.
 Todo o sistema tem 1 usuário pré cadastrado em cada cargo.(além de 1 exemplo de pedido delivery feito). Há também, presença de outras telas para "familiarizar" o app, tornando-o mais bonito, interativo e chamativo ao usuário(Sobre Nós, Contato, etc)
