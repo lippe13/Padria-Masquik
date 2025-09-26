@@ -55,10 +55,6 @@ CLIENTE
 - Celular: 992584571
 - Senha: mf
 
-## LINK para acesso
-
--- http://150.164.102.160/turma2024-integrado/303/a2023951571@teiacoltec.org/hp/Padaria/
-
 ## Autores
 
 - Felipe Davila Mendes, https://github.com/lippe13
